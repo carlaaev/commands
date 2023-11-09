@@ -1,2 +1,2 @@
-git status default
+git Status default
 git remote 3
